@@ -1,6 +1,6 @@
 # Hi 👋
 ## About Me
-I'm an aspiring data scientist/tester. Linux user. I love cats, rock climbing, and cooking.
+I love cats, rock climbing, and cooking.
 
 ## 🛠 Languages and Tools:
 <p align="left">
